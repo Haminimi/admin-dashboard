@@ -438,3 +438,39 @@ color: var(--theme-color);
         grid-template-columns: 1fr 9fr;
     }
 }
+
+@media screen and (min-width: 1800px) {
+    .projects-container {
+        grid-template-columns: 4fr 1.2fr;
+    }
+
+    html {
+        font-size: 18.4px;
+    }
+
+    #search-icon {
+        font-size: 2rem;
+    }
+
+    #notifications-icon {
+        font-size: 2rem;
+    }
+
+    #account-image {
+        width: 70px;
+        height: 70px;
+    }
+
+    #greeting-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .sidebar-links {
+        line-height: 70px;
+    }
+
+    button {
+        height: 40px;
+}
+}
