@@ -421,3 +421,20 @@ color: var(--theme-color);
 .fa-github:hover {
     transform: scale(1.1);
 }
+
+
+/*Media Queries*/
+
+@media screen and (min-width: 2000px) {
+    .container {
+        grid-template-columns: 15% 4fr;
+    }
+
+    .sidebar {
+        width: 15.1%;
+    }
+
+    .greeting {
+        grid-template-columns: 1fr 9fr;
+    }
+}
