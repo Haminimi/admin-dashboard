@@ -75,3 +75,75 @@ p {
     font-size: 1.5rem;
     font-weight: bold;
 }
+
+/*Sidebar*/
+
+.sidebar {
+    grid-column: 1 / 2;
+    grid-row: auto;
+    background-color: var(--theme-color);
+    color: white;
+    padding: 25px;
+    display: grid;
+    grid-template-rows: auto auto 1fr;
+    height: 100vh;
+    position: fixed;
+    width: 20.1%;
+    gap: 20px;
+    min-width: 185px;
+}
+
+.material-symbols-outlined.sidebar-icons {
+    font-size: 1.62rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.sidebar-links {
+    display: flex;
+    align-items: center;
+}
+
+.sidebar-links:hover {
+    font-variation-settings:
+    'FILL' 1,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
+
+#dashboard {
+    font-size: 2.18rem;
+    display: flex;
+    align-items: center;
+    font-variation-settings:
+    'FILL' 1,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
+
+#dashboard-icon {
+    font-size: 1.88rem;
+}
+
+#links-main {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.31rem;
+    justify-content: center;
+    line-height: 50px;
+    position: sticky;
+    border-bottom: 1px solid white;
+    padding-bottom: 20px;
+}
+
+#links-support {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.31rem;
+    line-height: 50px;
+}
