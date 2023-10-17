@@ -17,10 +17,13 @@ This is the project's [design file](https://cdn.statically.io/gh/TheOdinProject/
 ## Reflection
 The project significantly improved my understanding of CSS Grid Layout and CSS Flexbox. Currently, I am learning only Vanilla CSS and building projects with it. But I am also looking forward to learning CSS Frameworks and further enhancing my knowledge in areas like animations and responsive design.
 ## Credits
-- Icons used for the account images are ['People stickers' created by Stickers - Flaticon](https://www.flaticon.com/free-stickers/people).
+- Icons used for the account images are ['People stickers' created by Stickers - Flaticon](https://www.flaticon.com/free-stickers/people). 
+- Icon used for the favicon image is from ['Dashboard icons' created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/dashboard).
+
 ## Author
 - [GitHub](https://github.com/Haminimi)
-- Email: haminimi.dev@gmail.com
+- [Exercism](https://exercism.org/profiles/Haminimi)
 - [LeetCode](https://leetcode.com/Haminimi/)
+- Email: haminimi.dev@gmail.com
 - LinkedIn: A profile will be available at the time I am job ready
   
